@@ -1,7 +1,9 @@
 require 'pry'
 
 def my_all?(collection)
-  i = 0
-  while i <  collecAAAAAAAAAAAAAAS333333333333333333333333333333333333333333333333333333333
+  i=0
+  while i < colletion.length 
+  i = i + 1 
+ end
 
 end
